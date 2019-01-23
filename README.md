@@ -1,5 +1,7 @@
 # Introduction to Python
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mseri/intro_to_python/master)
+
 This repository contains the interactive (ipython) lecture notes that I've used for a very brief introduction to python programming for scientists, held at Reading University during the enhancement week.
 Due to time constraints there are many topics that were not covered, but overall I believe it should provide enough informations to start doing something and understand how and where to look for more.
 
@@ -14,3 +16,4 @@ Note that the lecture notes are not self-contained, during the course I was addi
 
 Online there are many many good resources, with many more details. I tried to link the ones I know and liked, and sometimes overlooked while preparing these notes. 
 If something is missing pleas let me know and I will integrate the comments and the links.
+You can click on the binder badge to directly run online an interactive version of these notebooks.
